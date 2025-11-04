@@ -22,11 +22,17 @@ This repository contains several small example R projects.
 Each pair of students will work in one folder only.
 
 reproducibility-gap-activity/
+
 ├── pair1_project/
+
 ├── pair2_project/
+
 ├── pair3_project/
+
 ├── pair4_project/
+
 ├── pair5_project/
+
 └── README.md
 
 
@@ -49,7 +55,7 @@ Each project intentionally includes several reproducibility gaps, such as:
 
 ---
 
-## 🚀 Instructions
+## Instructions
 
 ### 1) Form pairs and choose your folder
 - Work with a partner and use your assigned folder (e.g., `pair3_project`).
@@ -120,7 +126,7 @@ Pair 2: Sammy Slug
 
 ---
 
-## 💬 Wrap-Up Discussion Prompts
+## Wrap-Up Discussion Prompts
 
 1. Which gaps were easiest vs. hardest to fix, and why?
 2. What structures or docs would have prevented these issues?
@@ -138,7 +144,7 @@ Pair 2: Sammy Slug
 
 ---
 
-## 🧾 Attribution
+## Attribution
 
 Created for the UCSC 200A class
 by Joshua Smith, Nearshore Ecology Research Group (NERGlab)
