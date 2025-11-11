@@ -12,7 +12,6 @@
 # [ ] Document your fixes in your pair README.md and push a PR
 ################################################################################
 
-
 # Get a list of all attached packages
 pkgs <- names(sessionInfo()$otherPkgs)
 
